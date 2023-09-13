@@ -3,3 +3,17 @@ git init
 
 -- verificar o status do repositorio
 git status
+
+--- adicinanar todos os arquivos modificados 
+
+git add . 
+
+-- adicinanar um comentaria referente ao conjunto de modificação 
+git comit -a -m 
+
+--- Criar um usuario pricipal 
+git branch -M main
+
+-- Crianod mais um comite do projeto 
+
+ yhjd´kdpásdas
